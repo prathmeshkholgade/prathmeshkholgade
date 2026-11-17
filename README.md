@@ -76,7 +76,6 @@ I enjoy building scalable applications, designing REST APIs, working with databa
 ### 🤝 Connect With Me
 
 - 💼 LinkedIn: [Prathmesh Kholgade](https://www.linkedin.com/in/prathamesh-kholgade/)
-- 
 
 ---
 
