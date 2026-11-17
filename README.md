@@ -2,7 +2,7 @@
 
 ### Full Stack Developer | Flutter & Node.js
 
-I'm a Full Stack Developer with 1.8+ years of experience building cross-platform mobile applications using Flutter and developing bnacked services using Node.js.
+I'm a Full Stack Developer with experience building cross-platform mobile applications using Flutter and developing bnacked services using Node.js.
 
 I enjoy building scalable applications, designing REST APIs, working with databases, and deploying applications on AWS.
 
